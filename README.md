@@ -1,6 +1,6 @@
 # 🌍 Global Layoffs Analysis Dashboard (2020–2023)
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](layoffs_image.png)
 
 ---
 
@@ -162,7 +162,7 @@ global-layoffs-dashboard/
 └── README.md
 ```
 ## 📷 Dashboard Preview
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](layoffs_image.png)
 
 ---
 
